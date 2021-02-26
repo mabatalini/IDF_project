@@ -1,0 +1,39 @@
+--- CEMADEN / AGUA VERMELHA ----
+
+Original:  Mann_Kendall_Test(trend='decreasing', h=True, p=0.2110053168615713, z=-1.250805858734163, Tau=-0.11038251366120219, s=-202.0, var_s=25823.333333333332, slope=-0.9170940170940183, intercept=145.31282051282068)
+Hamed_rao:  Modified_Mann_Kendall_Test_Hamed_Rao_Approach(trend='decreasing', h=True, p=0.04188603170965455, z=-2.0346507034160215, Tau=-0.11038251366120219, s=-202.0, var_s=9759.15889419701, slope=-0.9170940170940183, intercept=145.31282051282068)
+Yue_wang:  Modified_Mann_Kendall_Test_Yue_Wang_Approach(trend='decreasing', h=True, p=0.00015012767755173684, z=-3.7908581553228857, Tau=-0.11038251366120219, s=-202.0, var_s=2811.3637834404667, slope=-0.9170940170940183, intercept=145.31282051282068)
+Trend_free: Modified_Mann_Kendall_Test_Trend_Free_PreWhitening_Approach(trend='decreasing', h=True, p=0.2698615049579318, z=-1.1033815511678755, Tau=-0.09830508474576272, s=-174.0, var_s=24583.333333333332, slope=-0.9170940170940183, intercept=145.31282051282068)
+Pre_whitening:  Modified_Mann_Kendall_Test_PreWhitening_Approach(trend='no trend', h=False, p=0.7449734570407862, z=-0.3252743301130731, Tau=-0.02937853107344633, s=-52.0, var_s=24583.333333333332, slope=-0.9170940170940183, intercept=145.31282051282068)
+
+--- CEMADEN / JARDIM SAO PAULO ----
+
+Original:  Mann_Kendall_Test(trend='no trend', h=False, p=0.5881158822214041, z=-0.541568375982311, Tau=-0.048087431693989074, s=-88.0, var_s=25806.666666666668, slope=-0.12744360902254667, intercept=66.82330827067646)
+Hamed_rao:  Modified_Mann_Kendall_Test_Hamed_Rao_Approach(trend='decreasing', h=True, p=0.33306636103957965, z=-0.9679559673789827, Tau=-0.048087431693989074, s=-88.0, var_s=8078.436249272491, slope=-0.12744360902254667, intercept=66.82330827067646)
+Yue_wang:  Modified_Mann_Kendall_Test_Yue_Wang_Approach(trend='decreasing', h=True, p=0.16514359844901483, z=-1.3879784791423015, Tau=-0.048087431693989074, s=-88.0, var_s=3928.918685091718, slope=-0.12744360902254667, intercept=66.82330827067646)
+Trend_free: Modified_Mann_Kendall_Test_Trend_Free_PreWhitening_Approach(trend='no trend', h=False, p=1.0, z=0, Tau=0.0, s=0.0, var_s=24583.333333333332, slope=-0.12744360902254667, intercept=66.82330827067646)
+Pre_whitening:  Modified_Mann_Kendall_Test_PreWhitening_Approach(trend='no trend', h=False, p=0.9237835253987614, z=0.0956689206214921, Tau=0.00903954802259887, s=16.0, var_s=24583.333333333332, slope=-0.12744360902254667, intercept=66.82330827067646)
+
+--- INMET / AUTOMATICO ----
+
+Original:  Mann_Kendall_Test(trend='increasing', h=True, p=0.06769539798086455, z=1.8270290747163178, Tau=0.093560962494959, s=1392.0, var_s=579646.6666666666, slope=0.14999999999999786, intercept=65.5000000000002)
+Hamed_rao:  Modified_Mann_Kendall_Test_Hamed_Rao_Approach(trend='increasing', h=True, p=0.027343522030112144, z=2.206578476579894, Tau=0.093560962494959, s=1392.0, var_s=397388.6918954861, slope=0.14999999999999786, intercept=65.5000000000002)
+Yue_wang:  Modified_Mann_Kendall_Test_Yue_Wang_Approach(trend='increasing', h=True, p=0.00012448035926970746, z=3.837130442653168, Tau=0.093560962494959, s=1392.0, var_s=131413.8483764725, slope=0.14999999999999786, intercept=65.5000000000002)
+Trend_free: Modified_Mann_Kendall_Test_Trend_Free_PreWhitening_Approach(trend='increasing', h=True, p=0.0858846123346324, z=1.7175177597131726, Tau=0.08826329389364886, s=1298.0, var_s=570266.0, slope=0.14999999999999786, intercept=65.5000000000002)
+Pre_whitening:  Modified_Mann_Kendall_Test_PreWhitening_Approach(trend='increasing', h=True, p=0.37420433365305716, z=0.8886255896131172, Tau=0.04569563443492452, s=672.0, var_s=570174.0, slope=0.14999999999999786, intercept=65.5000000000002)
+
+--- INMET / CONVENCIONAL ----
+
+Original:  Mann_Kendall_Test(trend='no trend', h=False, p=0.5225404774661375, z=0.6394342445380387, Tau=0.015778408963836022, s=4233.0, var_s=43802564.333333336, slope=0.0021760654326302194, intercept=82.80356005165736)
+Hamed_rao:  Modified_Mann_Kendall_Test_Hamed_Rao_Approach(trend='no trend', h=False, p=0.6257769685748542, z=0.487679367155053, Tau=0.015778408963836022, s=4233.0, var_s=75304781.81359531, slope=0.0021760654326302194, intercept=82.80356005165736)
+Yue_wang:  Modified_Mann_Kendall_Test_Yue_Wang_Approach(trend='increasing', h=True, p=0.37415995267495994, z=0.888708144775887, Tau=0.015778408963836022, s=4233.0, var_s=22676341.94687472, slope=0.0021760654326302194, intercept=82.80356005165736)
+Trend_free: Modified_Mann_Kendall_Test_Trend_Free_PreWhitening_Approach(trend='no trend', h=False, p=0.539664209208758, z=0.6133208507047809, Tau=0.015152534517428779, s=4054.0, var_s=43669452.666666664, slope=0.0021760654326302194, intercept=82.80356005165736)
+Pre_whitening:  Modified_Mann_Kendall_Test_PreWhitening_Approach(trend='no trend', h=False, p=0.7120291027356287, z=0.3691323157365226, Tau=0.009119927040583675, s=2440.0, var_s=43657560.666666664, slope=0.0021760654326302194, intercept=82.80356005165736)
+
+--- MAPLU / ESCOLA SAO BENTO ----
+
+Original:  Mann_Kendall_Test(trend='decreasing', h=True, p=0.010082227722205017, z=-2.572996328640511, Tau=-0.26666666666666666, s=-264.0, var_s=10448.0, slope=-1.4314285714286146, intercept=60.09142857142945)
+Hamed_rao:  Modified_Mann_Kendall_Test_Hamed_Rao_Approach(trend='decreasing', h=True, p=0.006246891379904085, z=-2.73453257578277, Tau=-0.26666666666666666, s=-264.0, var_s=9250.075855976811, slope=-1.4314285714286146, intercept=60.09142857142945)
+Yue_wang:  Modified_Mann_Kendall_Test_Yue_Wang_Approach(trend='decreasing', h=True, p=3.077498912862353e-05, z=-4.16765451983739, Tau=-0.26666666666666666, s=-264.0, var_s=3982.245916518695, slope=-1.4314285714286146, intercept=60.09142857142945)
+Trend_free: Modified_Mann_Kendall_Test_Trend_Free_PreWhitening_Approach(trend='decreasing', h=True, p=0.040053645247036584, z=-2.0531952466489964, Tau=-0.2156448202959831, s=-204.0, var_s=9775.333333333334, slope=-1.4314285714286146, intercept=60.09142857142945)
+Pre_whitening:  Modified_Mann_Kendall_Test_PreWhitening_Approach(trend='decreasing', h=True, p=0.19896310814724005, z=-1.2845113119429683, Tau=-0.13530655391120508, s=-128.0, var_s=9775.333333333334, slope=-1.4314285714286146, intercept=60.09142857142945)

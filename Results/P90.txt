@@ -1,0 +1,5 @@
+P90 CEMADEN / Agua Vermelha:  33.60000000000001
+P90 CEMADEN / Jardim Sao Paulo:  29.2
+P90 INMET / Automatic:  28.2
+P90 INMET / Conventional:  32.0
+P90 MAPLU / Escola Sao Bento:  18.999999999999964
